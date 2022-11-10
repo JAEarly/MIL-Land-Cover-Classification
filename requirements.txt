@@ -1,0 +1,18 @@
+-e git+git@github.com:JAEarly/bonfire.git@8e80559dd023923ea5e6b535179661870618c520#egg=bonfire
+codecarbon
+latextable
+matplotlib
+numpy
+opencv-python
+optuna
+overrides
+pandas
+Pillow
+PyYAML
+scikit-learn
+scipy
+texttable
+torch
+torchvision
+tqdm
+wandb

@@ -1,0 +1,6 @@
+/.idea/
+/data/
+/wandb/
+/iridis/
+__pycache__/
+latest_job.sh

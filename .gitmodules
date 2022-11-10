@@ -1,0 +1,3 @@
+[submodule "bonfire"]
+	path = bonfire
+	url = git@github.com:JAEarly/bonfire.git
