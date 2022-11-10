@@ -1,7 +1,8 @@
 
 # Scene-to-Patch Earth Observation: Multiple Instance Learning for Land Cover Classification
 
-This repo contains the code for the paper Scene-to-Patch Earth Observation: Multiple Instance Learning for Land Cover Classification.  
+This repo contains the code for the paper Scene-to-Patch Earth Observation: Multiple Instance Learning for Land Cover Classification, published as part of the Tackling Climate Change with Machine Learning Workshop at NeurIPS 2022.
+
 We use [Bonfire](https://github.com/JAEarly/Bonfire) for the backend MIL functionality.
 
 ![main_img](./out/interpretability/paper/435277_interpretation_24_medium.png)
